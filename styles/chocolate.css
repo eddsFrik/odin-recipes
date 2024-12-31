@@ -7,6 +7,11 @@ body {
     color: #3c3c3c;
 }
 
+::selection {
+    background: #F2AE66;
+    color: #ffffe9;
+}
+
 .back {
     text-decoration: none;
     color: inherit;
