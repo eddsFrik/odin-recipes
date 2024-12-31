@@ -38,3 +38,5 @@ h1, footer {
 li a:hover {
     text-decoration: 2px underline #F2AE66;
 }
+
+.github { text-decoration: 2px underline #F2AE66; color: inherit;}
