@@ -6,6 +6,11 @@ body {
     line-height: 1.5;
 }
 
+::selection {
+    background: #F2AE66;
+    color: #ffffe9;
+}
+
 main {
     display: grid;
     place-content: center;
